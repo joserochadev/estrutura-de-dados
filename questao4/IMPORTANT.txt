@@ -1,0 +1,10 @@
+Foi implementado somente o necessário para o funcionamento do programa, devido:
+  - A base código e manipulação das lista é a mesma apresentada em aula;
+  - O código escrito já soluciona o que a questão pede (retorno de uma lista);
+  - O programa usa o tipo de lista encadiada simples (mínima necessária para resolução);
+
+Resalvas: 
+  - O programa apresenta manipulação simples (inserção, alocação e limpeza de memória);
+
+Assim, cumprindo o necessário para resolver a questão e destacar as novidades apresentadas;
+
